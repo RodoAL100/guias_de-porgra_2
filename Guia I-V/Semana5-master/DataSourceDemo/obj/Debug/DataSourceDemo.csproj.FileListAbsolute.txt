@@ -1,0 +1,22 @@
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe.config
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.pdb
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Properties.Resources.resources
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.GenerateResource.cache
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.exe
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.pdb
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources
+C:\Users\gamer\source\repos\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Form1.resources
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\bin\Debug\DataSourceDemo.exe.config
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\bin\Debug\DataSourceDemo.exe
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\bin\Debug\DataSourceDemo.pdb
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.AssemblyReference.cache
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.Form1.resources
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.Properties.Resources.resources
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.GenerateResource.cache
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.exe
+C:\Users\JESUS ALVARADO\Desktop\portafolio 2024\GUIAS16_ROD\Semana5-master\DataSourceDemo\obj\Debug\DataSourceDemo.pdb

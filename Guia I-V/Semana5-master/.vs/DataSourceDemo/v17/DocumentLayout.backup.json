@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\ejemploconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\ejemploconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|c:\\users\\jesus alvarado\\desktop\\portafolio 2024\\guias16_rod\\semana5-master\\datasourcedemo\\ejemploconexion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\ejemploconexion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\ejemploconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\ejemploconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\datasourcedemo\\northwinddataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2FA3BA7C-209C-4FC2-BCC2-EB61023335A8}|DataSourceDemo\\DataSourceDemo.csproj|solutionrelative:datasourcedemo\\northwinddataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\App.config",
+              "RelativeDocumentMoniker": "DataSourceDemo\\App.config",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\App.config",
+              "RelativeToolTip": "DataSourceDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-30T19:31:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\DataSourceDemo\\DataSourceDemo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\gamer\\source\\repos\\DataSourceDemo\\DataSourceDemo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-30T19:31:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\Program.cs*",
+              "RelativeToolTip": "DataSourceDemo\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:31:45.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ejemploConexion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.Designer.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\ejemploConexion.Designer.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.Designer.cs",
+              "RelativeToolTip": "DataSourceDemo\\ejemploConexion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:31:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejemploConexion.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\ejemploConexion.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.cs",
+              "RelativeToolTip": "DataSourceDemo\\ejemploConexion.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:31:45.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ejemploConexion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\ejemploConexion.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\ejemploConexion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DataSourceDemo\\ejemploConexion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:31:45.583Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "DataSourceDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\Form1.cs",
+              "RelativeToolTip": "DataSourceDemo\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-30T19:31:45.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthwindDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\NorthwindDataSet.xsd",
+              "RelativeDocumentMoniker": "DataSourceDemo\\NorthwindDataSet.xsd",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\Desktop\\portafolio 2024\\GUIAS16_ROD\\Semana5-master\\DataSourceDemo\\NorthwindDataSet.xsd",
+              "RelativeToolTip": "DataSourceDemo\\NorthwindDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-08-30T19:31:45.584Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
